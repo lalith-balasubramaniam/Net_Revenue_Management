@@ -1,7 +1,7 @@
 
 # Net Revenue Management Analysis
 
-This repository contains an in-depth analysis for **HealthMax**, a leading brand in the shampoo industry. The objective of this analysis is to explore market trends, identify growth opportunities, and make data-driven recommendations to optimize HealthMax's revenue and profitability.
+This repository contains an in-depth analysis for **HealthMax** brand in the shampoo industry. The objective of this analysis is to explore market trends, identify growth opportunities, and make data-driven recommendations to optimize HealthMax's revenue and profitability.
 
 ## Contents
 
