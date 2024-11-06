@@ -40,6 +40,3 @@ The analysis is structured as follows:
 2. Open `Net Revenue Management.xlsx` in Excel to explore the analysis in each worksheet.
 3. Refer to the `Datasets` folder for the raw CSV files used in this analysis.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
