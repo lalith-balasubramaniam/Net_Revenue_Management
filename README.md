@@ -26,6 +26,9 @@ The analysis is structured as follows:
 8. **50ml Shampoo Analysis**: Built a business case for a travel-size shampoo bottle.
 9. **Promotion Effectiveness**: Calculated ROI for various promotions to refine promotional strategies.
 
+![Forecasting](Forecasting.png)
+
+
 ## Key Insights and Outcomes
 
 - **Growth Opportunities**: Identified the fastest-growing categories and top-performing regions, providing guidance for future investments.
