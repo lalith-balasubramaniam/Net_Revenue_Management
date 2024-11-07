@@ -43,3 +43,6 @@ The analysis is structured as follows:
 2. Open `Net Revenue Management.xlsx` in Excel to explore the analysis in each worksheet.
 3. Refer to the `Datasets` folder for the raw CSV files used in this analysis.
 
+## Licenses
+The Dataset was provided by Datacamp
+
